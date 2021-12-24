@@ -1,6 +1,8 @@
-- [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.]()
-- [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.]()
-- [] [Exercício 03 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido]()
+# Exercicios 2 <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+- [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2001)
+- [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2002)
+- [x] [Exercício 03 - Faça um Programa que verifique se uma letra digitada é "F" ou "M". Conforme a letra escrever: F - Feminino, M - Masculino, Sexo Inválido](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2003)
 - [] [Exercício 04 - Faça um Programa que verifique se uma letra digitada é vogal ou consoante.]()
 - [] [Exercício 05 - Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:<br>
     -A mensagem "Aprovado", se a média alcançada for maior ou igual a sete; <br>
