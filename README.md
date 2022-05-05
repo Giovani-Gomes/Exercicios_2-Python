@@ -40,7 +40,7 @@
    Salário Liquido |  R$  935,00
     
    
-- [][Exercícios 13 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.]()
+- [x][Exercícios 13 - Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2013)
 - [][Exercícios 14- Faça um programa que lê as duas notas parciais obtidas por um aluno numa disciplina ao longo de um semestre, e calcule a sua média.]()
     Média de Aproveitamento | Conceito
     :---: | :---: | 
