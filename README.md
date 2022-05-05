@@ -23,7 +23,7 @@
 	-O percentual de aumento aplicado;<br>
 	-O valor do aumento;<br>
 	-O novo salário, após o aumento.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2011)
-- [] [Exercício 12- Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do 	salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado 	(é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o 			valor da sua hora e a quantidade de horas trabalhadas no mês.<br>
+- [x] [Exercício 12- Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do 	salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado 	(é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o 			valor da sua hora e a quantidade de horas trabalhadas no mês.<br>
 	Desconto do IR: <br>
 	Salário Bruto até 900 (inclusive) - isento<br>
 	Salário Bruto até 1500 (inclusive) - desconto de 5%<br>
