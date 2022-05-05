@@ -28,7 +28,7 @@
 	Salário Bruto até 900 (inclusive) - isento<br>
 	Salário Bruto até 1500 (inclusive) - desconto de 5%<br>
 	Salário Bruto até 2500 (inclusive) - desconto de 10%<br>
-	Salário Bruto acima de 2500]()
+	Salário Bruto acima de 2500](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2012)
     
     IMPOSTOS | VALORES 
     :---: | ---: | 
