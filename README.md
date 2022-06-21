@@ -65,10 +65,10 @@ Se o usuário informar o valor de A igual a zero, a equação não é do segundo
 	-Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2016/Equacao_grau.py)
 - [x][Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2017/AnoBissexto.py)
 - [x][Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2018/dataValida.py)
-- [][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
+- [x][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
 Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:<br>
 	326 = 3 centenas, 2 dezenas e 6 unidades<br>
-	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16]()
+	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2019/exercicio19.py)
 - [][Exercícios 20-Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:<br>
 	A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;<br>
 	A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;<br>
