@@ -52,20 +52,20 @@
   
   
   (https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2014)
-- [x][Exercícios 15- Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.<br>
+- [x] [Exercícios 15- Faça um Programa que peça os 3 lados de um triângulo. O programa deverá informar se os valores podem ser um triângulo. Indique, caso os lados formem um triângulo, se o mesmo é: equilátero, isósceles ou escaleno.<br>
 	Dicas:<br>
 	-Três lados formam um triângulo quando a soma de quaisquer dois lados for maior que o terceiro;<br>
 	-Triângulo Equilátero: três lados iguais;<br>
 	-Triângulo Isósceles: quaisquer dois lados iguais;<br>
 	-Triângulo Escaleno: três lados diferentes;](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2015)
-- [x][Exercícios 16- aça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:<br>
+- [x] [Exercícios 16- aça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c. O programa deverá pedir os valores de a, b e c e fazer as consistências, informando ao usuário nas seguintes situações:<br>
 Se o usuário informar o valor de A igual a zero, a equação não é do segundo grau e o programa não deve fazer pedir os demais valores, sendo encerrado;<br>
 	-Se o delta calculado for negativo, a equação não possui raizes reais. Informe ao usuário e encerre o programa;<br>
 	-Se o delta calculado for igual a zero a equação possui apenas uma raiz real; informe-a ao usuário;<br>
 	-Se o delta for positivo, a equação possui duas raiz reais; informe-as ao usuário;](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2016/Equacao_grau.py)
-- [x][Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2017/AnoBissexto.py)
-- [x][Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2018/dataValida.py)
-- [x][Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
+- [x] [Exercícios 17- Faça um Programa que peça um número correspondente a um determinado ano e em seguida informe se este ano é ou não bissexto.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2017/AnoBissexto.py)
+- [x] [Exercícios 18- Faça um Programa que peça uma data no formato dd/mm/aaaa e determine se a mesma é uma data válida.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2018/dataValida.py)
+- [x] [Exercícios 19- Faça um Programa que leia um número inteiro menor que 1000 e imprima a quantidade de centenas, dezenas e unidades do mesmo.<br>
 Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:<br>
 	326 = 3 centenas, 2 dezenas e 6 unidades<br>
 	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2019/exercicio19.py)
