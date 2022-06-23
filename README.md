@@ -69,10 +69,10 @@ Se o usuário informar o valor de A igual a zero, a equação não é do segundo
 Observando os termos no plural a colocação do "e", da vírgula entre outros. Exemplo:<br>
 	326 = 3 centenas, 2 dezenas e 6 unidades<br>
 	12 = 1 dezena e 2 unidades Testar com: 326, 300, 100, 320, 310,305, 301, 101, 311, 111, 25, 20, 10, 21, 11, 1, 7 e 16](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2019/exercicio19.py)
-- [][Exercícios 20-Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:<br>
+- [x] [Exercícios 20-Faça um Programa para leitura de três notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e presentar:<br>
 	A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;<br>
 	A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;<br>
-	A mensagem "Aprovado com Distinção", se a média for igual a 10.]()
+	A mensagem "Aprovado com Distinção", se a média for igual a 10.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2020/exercicio20.py)
 - [][Exercícios 21- Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas<br> notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.<br>
 	Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;<br>
 	Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.]()
