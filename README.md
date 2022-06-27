@@ -82,12 +82,12 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 	Par ou ímpar;<br>
 	Positivo ou negativo;<br>
 	Inteiro ou decimal.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2024/exerc%C3%ADcio24.py)<br>
-- [][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>
+- [x][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>
 "Telefonou para a vítima?"<br>
 "Esteve no local do crime?"<br>
 "Mora perto da vítima?"<br>
 "Devia para a vítima?"<br>
-"Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder <br> positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".]()
+"Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder <br> positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2025/exerc%C3%ADcio25.py)
 - [][Exercícios 26- Um posto está vendendo combustíveis com a seguinte tabela de descontos:<br>
 	Álcool:<br>
 	até 20 litros, desconto de 3% por litro<br>
