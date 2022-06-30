@@ -73,28 +73,28 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 	A mensagem "Aprovado", se a média for maior ou igual a 7, com a respectiva média alcançada;<br>
 	A mensagem "Reprovado", se a média for menor do que 7, com a respectiva média alcançada;<br>
 	A mensagem "Aprovado com Distinção", se a média for igual a 10.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2020/exercicio20.py)
-- [x][Exercícios 21- Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas<br> notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.<br>
+- [x] [Exercícios 21- Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas<br> notas de cada valor serão fornecidas. As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais. O valor mínimo é de 10 reais e o máximo de 600 reais. O programa não deve se preocupar com a quantidade de notas existentes na máquina.<br>
 	Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;<br>
 	Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2021/caixaEletronico.py)
-- [x][Exercícios 22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2022)
-- [x][Exercícios 23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2023/exerc%C3%ADcio23.py)
-- [x][Exercícios 24- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:<br>
+- [x] [Exercícios 22- Faça um Programa que peça um número inteiro e determine se ele é par ou impar. Dica: utilize o operador módulo (resto da divisão).](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2022)
+- [x] [Exercícios 23- Faça um Programa que peça um número e informe se o número é inteiro ou decimal. Dica: utilize uma função de arredondamento.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2023/exerc%C3%ADcio23.py)
+- [x] [Exercícios 24- Faça um Programa que leia 2 números e em seguida pergunte ao usuário qual operação ele deseja realizar. O resultado da operação deve ser acompanhado de uma frase que diga se o número é:<br>
 	Par ou ímpar;<br>
 	Positivo ou negativo;<br>
 	Inteiro ou decimal.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2024/exerc%C3%ADcio24.py)<br>
-- [x][Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>
+- [x] [Exercícios 25- Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:<br>
 "Telefonou para a vítima?"<br>
 "Esteve no local do crime?"<br>
 "Mora perto da vítima?"<br>
 "Devia para a vítima?"<br>
 "Já trabalhou com a vítima?" O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. Se a pessoa responder <br> positivamente a 2 questões ela deve ser classificada como "Suspeita", entre 3 e 4 como "Cúmplice" e 5 como "Assassino". Caso contrário, ele será classificado como "Inocente".](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2025/exerc%C3%ADcio25.py)
-- [][Exercícios 26- Um posto está vendendo combustíveis com a seguinte tabela de descontos:<br>
+- [x] [Exercícios 26- Um posto está vendendo combustíveis com a seguinte tabela de descontos:<br>
 	Álcool:<br>
 	até 20 litros, desconto de 3% por litro<br>
 	acima de 20 litros, desconto de 5% por litro<br>
 	Gasolina:<br>
 	até 20 litros, desconto de 4% por litro<br>
-	acima de 20 litros, desconto de 6% por litro Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado  		da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é 		R$ 2,50 o preço do litro do álcool é R$ 1,90.]()
+	acima de 20 litros, desconto de 6% por litro Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado  		da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é 		R$ 2,50 o preço do litro do álcool é R$ 1,90.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2026)
 - [][Exercícios 27- Uma fruteira está vendendo frutas com a seguinte tabela de preços:<br>
 Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.]()
 
