@@ -95,22 +95,22 @@ Observando os termos no plural a colocação do "e", da vírgula entre outros. E
 	Gasolina:<br>
 	até 20 litros, desconto de 4% por litro<br>
 	acima de 20 litros, desconto de 6% por litro Escreva um algoritmo que leia o número de litros vendidos, o tipo de combustível (codificado  		da seguinte forma: A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se que o preço do litro da gasolina é 		R$ 2,50 o preço do litro do álcool é R$ 1,90.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2026)
-- [x][Exercícios 27- Uma fruteira está vendendo frutas com a seguinte tabela de preços:<br>
-Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.]
+- [x] [Exercícios 27- Uma fruteira está vendendo frutas com a seguinte tabela de preços:<br>
+Se o cliente comprar mais de 8 Kg em frutas ou o valor total da compra ultrapassar R$ 25,00, receberá ainda um desconto de 10% sobre este total. Escreva um algoritmo para ler a quantidade (em Kg) de morangos e a quantidade (em Kg) de maças adquiridas e escreva o valor a ser pago pelo cliente.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2027)
 
 	Pesos | Até 5 Kg | Acima de 5 Kg
 	:---: | ---: | :---:
 	Morando | R$ 2,50 por Kg  | R$ 2,20 por Kg
 	Maçã | R$ 1,80 por Kg   | R$ 1,50 por Kg
  
-(https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2027)
-- [][Exercícios 28- O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira: <br>
-Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total da compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.]
+
+- [x] [Exercícios 28- O Hipermercado Tabajara está com uma promoção de carnes que é imperdível. Confira: <br>
+Para atender a todos os clientes, cada cliente poderá levar apenas um dos tipos de carne da promoção, porém não há limites para a quantidade de carne por cliente. Se compra for feita no cartão Tabajara o cliente receberá ainda um desconto de 5% sobre o total da compra. Escreva um programa que peça o tipo e a quantidade de carne comprada pelo usuário e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de carne, preço total, tipo de pagamento, valor do desconto e valor a pagar.](https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2028/Exercicio28.py)
 
 	Pesos | Até 5 Kg | Acima de 5 Kg
 	:---: | ---: | :---:
 	File Duplo  | R$ 4,90 por Kg  | R$ 5,80 por Kg
 	Alcatra | R$ 5,90 por Kg | R$ 6,80 por Kg
 	Picanha | R$ 6,90 por Kg | R$ 7,80 por Kg
-	
-(https://github.com/Giovani-Gomes/Exercicios_2-Python/blob/main/Exerc%C3%ADcio%2028/Exercicio28.py)
+
+
