@@ -1,4 +1,5 @@
 # Exercicios 2 <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+![GitHub repo size](https://img.shields.io/github/repo-size/Giovani-Gomes/Exercicios_2-Python)
 
 - [x] [Exercício 01 - Faça um Programa que peça dois números e imprima o maior deles.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2001)
 - [x] [Exercício 02- Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.](https://github.com/Giovani-Gomes/Exercicios_2-Python/tree/main/Exerc%C3%ADcio%2002)
